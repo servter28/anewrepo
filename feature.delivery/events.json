@@ -1,0 +1,40 @@
+{
+    "roadmapItems": [
+        {
+            "title": "Long weekend",
+            "type": "Milestone",
+            "startDate": "2024-03-01T00:00:00.000Z",
+            "endDate": "2024-03-31T00:00:00.000Z",
+            "tags": [
+                "dummy tag"
+            ],
+            "style": "purple",
+            "source": "Source 1",
+            "product": "Product 1",
+            "children": [
+                {
+                    "title": "Extra day off",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Annual conference",
+            "type": "Milestone",
+            "startDate": "2024-11-15T00:00:00.000Z",
+            "endDate": "2024-11-21T00:00:00.000Z",
+            "tags": [
+                "dummy tag"
+            ],
+            "style": "green",
+            "source": "Source 1",
+            "product": "Product 1",
+            "children": [
+                {
+                    "title": "New Announcements",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

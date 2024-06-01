@@ -1,0 +1,51 @@
+{
+    "roadmapItems": [
+        {
+            "title": "Release v1.0.0",
+            "type": "Release",
+            "startDate": "2024-01-01T00:00:00.000Z",
+            "endDate": "2024-01-31T00:00:00.000Z",
+            "tags": [
+                "dummy tag"
+            ],
+            "style": "blue",
+            "source": "Source 1",
+            "product": "Product 1"
+        },
+        {
+            "title": "Release v2.0.0",
+            "type": "Release",
+            "startDate": "2024-05-15T00:00:00.000Z",
+            "endDate": "2024-05-21T00:00:00.000Z",
+            "tags": [
+                "dummy tag"
+            ],
+            "style": "green",
+            "source": "Source 1",
+            "product": "Product 1",
+            "children": [
+                {
+                    "title": "Feature A",
+                    "children": []
+                },
+                {
+                    "title": "Feature B",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Release v3.0.0",
+            "type": "Release",
+            "startDate": "2024-08-15T00:00:00.000Z",
+            "endDate": "2024-08-21T00:00:00.000Z",
+            "tags": [
+                "dummy tag"
+            ],
+            "style": "pink",
+            "source": "Source 1",
+            "product": "Product 2"
+        }
+    ],
+    "product": "Product 1"
+}

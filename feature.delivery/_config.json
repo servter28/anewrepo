@@ -1,0 +1,27 @@
+{
+    "roadmapHierarchy": [
+        {
+            "label": "Release",
+            "faIcon": "faRocket",
+            "hierarchy": [
+                {
+                    "label": "Feature",
+                    "faIcon": "faCube",
+                    "hierarchy": [
+                        {
+                            "label": "Enhancement",
+                            "faIcon": "faPuzzlePiece",
+                            "hierarchy": []
+                        },
+                        {
+                            "label": "Bug Fix",
+                            "faIcon": "faBug",
+                            "hierarchy": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "linkedRoadmapRepositories": []
+}
